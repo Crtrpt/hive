@@ -16,14 +16,11 @@
     - plusar
 
 - 业务层
-    - springboot
+    - gin gorm
 - 数据库 
     - mysql
     - redis
 
-
-为什么用这些?
-- 项目大了之后 你能走多元看的就是你使用的语言的下限
 
 - 项目的所用使用仓库
 https://github.com/Crtrpt/hive
