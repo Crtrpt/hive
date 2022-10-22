@@ -29,3 +29,10 @@
     - 场景内设备互联互动
 
 详情文档
+
+文档使用 
+```
+npm i docsify-cli -g
+启动文档
+docsify init ./docs
+```
