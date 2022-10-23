@@ -1,0 +1,9 @@
+windows
+redis
+```
+https://www.memurai.com/
+```
+mysql
+```
+https://dev.mysql.com/downloads/installer/
+```

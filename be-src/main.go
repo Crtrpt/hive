@@ -1,7 +1,10 @@
 package main
 
-import "fmt"
+import "danjing.com/hive/api"
 
 func main() {
-	fmt.Printf("start------------------------------")
+	//配置初始化
+
+	//日志初始化
+	api.Init()
 }

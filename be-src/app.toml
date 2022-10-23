@@ -1,0 +1,2 @@
+source = "root:12345678@/hive?charset=utf8mb4"
+redis = "127.0.0.1:6379"
